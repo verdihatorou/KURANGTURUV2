@@ -35,7 +35,7 @@ handler.all = async function (m, { isBlocked }) {
 ╠➥ *Sc Bot* :        *Masih Beta*
 ║
 ╠═〘 PEMBAYARAN 〙 ═
-╠➥ Gopay, Dana, Dan Pulsa
+╠➥ Gopay, Dana, Qris, Dan Pulsa 
 ║
 ╠═ Tertarik Untuk Beli Bot Ini?
 ╠➥Ketuk Tombol Di Bawah Ya

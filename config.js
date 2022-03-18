@@ -14,11 +14,11 @@
 gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whatsapp.com/HJ9pD2XJ8vq7whuAYOvT1Y', ''] // ganti jadi group lu
-global.owner = ['+1 (775) 403-5736','6289505165400'] // Put your number here //owner eval
-global.kontak = ['+1 (775) 403-5736','6289505165400'] //Ketika ada yang ngetik #owner
+global.linkGC = ['wa.me//+6283869803330', ''] // ganti jadi group lu
+global.owner = ['+6283869803330','6285706735450'] // Put your number here //owner eval
+global.kontak = ['+6283869803330','6285706735450'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['+1 (775) 403-5736','6289505165400','6282287750102'] // Premium user has unlimited limit
+global.prems = ['+0','0','0'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -47,8 +47,8 @@ xteamkey = 'Dawnfrostkey'
 namaig = 'GAK ADA :)'
 namagithub = 'GAK ADA :)'
 kasihcaption = `Nih kak`
-namakontak1 = 'AlyaaXzy 1'
-namakontak2 = 'AlyaaXzy 2'
+namakontak1 = 'VERDI'
+namakontak2 = 'VERDI ²'
 
 //kasihcaption = `Nih Kak`
 
@@ -57,10 +57,10 @@ global.packname = 'By AlyaaXzy' // ganti aja
 global.author = 'AlyaaXzy' // ganti aja
 
 //yyy
-bc = 'AlyaaXzy' //AlyaaXy Broadcast
-footer = '\n©AlyaaXzy'
-namabot = 'AlyaaXzy'
-namalu = 'AlyaaXzy'
+bc = 'VERDI BOTZ' //VERDI Broadcast
+footer = 'V7'
+namabot = 'BOT TZY'
+namalu = 'VERDI'
 
 
 // 
@@ -72,7 +72,7 @@ global.eror = '_*Server Error*_'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23101820&text='
 
-// Ubah saja SC dari AlyaaXzy
+// Ubah saja SC dari verdi
 global.image = 'https://telegra.ph/file/338349c86c4fcd540968b.png'//thumbnail
 
 // tingkat kesulitan, semakin tinggi semakin susah

@@ -2,7 +2,7 @@ let fetch = require('node-fetch')
 let { MessageType } = require('@adiwajshing/baileys')
 let handler = async(m, { conn }) => {
     let kamisato = `
-┌〔 List Berlangganan 〕
+┌〔 List Berlangganan VERDIBOTZ 〕
 ├ 2 Bulan
 ├ 1 Bulan
 ├ 1 Minggu
@@ -11,8 +11,8 @@ let handler = async(m, { conn }) => {
 Silahkan klik pada "List Harga" untuk melihat list.
 
 Pembayaran:
-Pulsa (ISAT): 085730903853 (+5.000)
-Gopay: 085730903853
+Pulsa (ISAT): 085706735450 (+5.000)
+Gopay: 085706735450
 `.trim()
     const button = {
         buttonText: 'List Harga',

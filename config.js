@@ -50,15 +50,15 @@ kasihcaption = `Nih kak`
 namakontak1 = 'VERDI'
 namakontak2 = 'VERDI ²'
 
-//kasihcaption = `Nih Kak`
+//kasihcaption = `Nih bangkek`
 
 // Sticker WM
-global.packname = 'By AlyaaXzy' // ganti aja
-global.author = 'AlyaaXzy' // ganti aja
+global.packname = 'By VERDI' // ganti aja
+global.author = 'VERDI BOTZ' // ganti aja
 
 //yyy
 bc = 'VERDI BOTZ' //VERDI Broadcast
-footer = 'V7'
+footer = 'BOT TZY'
 namabot = 'BOT TZY'
 namalu = 'VERDI'
 

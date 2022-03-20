@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://ibb.co/QQX130c"><img src="https://i.ibb.co/tK3WTRh/FB-IMG-1619342660961.jpg" alt="Velgrynd"></a>
-</p>
+  <a href="https://ibb.co/QQX130c"><img src="https://i.ibb.co/tK3WTRh/" file:///storage/emulated/0/Download/1188548579.jpegalt="Velgrynd"></a>
+</p>file:
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=MichaelAgam&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/MichaelAgam23?label=Followers" style=" float:left, margin-right:10px" alt="Followers" />

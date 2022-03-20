@@ -1,5 +1,5 @@
 {
-  "name": "AlyaaXzy",
+  "name": "Verdibotz",
   "version": "1.5.0",
   "description": "WhatsApp Bot",
   "depecrated": false,
@@ -19,16 +19,16 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/AlyaaXd/rfkbot",
+  "homepage": "https://github.com/VERDIBOTZ1/KURANGTURUV2",
   "author": {
-    "name": "AlyaaXd"
+    "name": "VERDI"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlyaaXd/rfkbot.git"
+    "url": "git+https://github.com/VERDIBOTZ1/KURANGTURUV2"
   },
   "bugs": {
-    "url": "https://github.com/AlyaaXd/rfkbot/issues"
+    "url": "https://github.com/VERDIBOTZ1/KURANGTURUV2"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {

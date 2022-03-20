@@ -1,7 +1,7 @@
-<h1 align="center">Hi! 👋 I'm AlyaaXzy</h1>
+<h1 align="center">Hi! 👋 I'm verdibotz</h1>
 
 <p align="center">
-  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=I'Am+AlyaaXzy+?+From+Indonesia.;I'am+Not+Programmer." alt="AlyaaXzy">
+  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=I'im+verdibotz+?+From+Indonesia.;I'am+Not+Programmer." alt="verdibotz">
 </p>
 
 <p align="center">
@@ -13,8 +13,8 @@
 </p>
 
 
-# AlyaaXzy
-Simple Rpg WhatsApp Bot AlyaaXzy
+# verdi
+Simple Rpg WhatsApp Bot verdi
 
 <a href="https://github.com/Dawnfrosty/Mike-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Dawnfrosty/Mike-bot?label=Forks&color=blue&style=flat-square"></a>
 <a href="https://github.com/Dawnfrosty/Mike-bot/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Dawnfrosty/Mike-bot?label=Watchers&color=green&style=flat-square"></a>
@@ -26,7 +26,7 @@ Simple Rpg WhatsApp Bot AlyaaXzy
 <a href="https://github.com/Dawnfrosty/Mike-bot/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/Dawnfrosty/Mike-bot?label=PullRequest&color=red&style=flat-square"></a>
 
 ## Join Group Diskusi
-[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]() 
+[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?s=for-the-badge&logo=whatsapp&logoColor=white)]() 
 **NO BOT**
 
 ## Deploy to heroku
@@ -39,8 +39,8 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 
 Tutorial YouTube
 
-[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](AlyaaXzy ?)
-## FOR TERMUX/UBUNTU/SSH USER AlyaaXzy
+[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](kurang turu?)
+## FOR TERMUX/UBUNTU/SSH USER kurangturuv2
 
 ```bash
 apt update && apt upgrade
@@ -48,8 +48,8 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/AlyaaXd/rfkbotV2
-cd rfkbotV2
+git clone https://github.com/KURANGTURUV2/KURANGTURUV2
+npm i
 npm install
 npm update
 ```
@@ -63,8 +63,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/AlyaaXd/rfkbotV2-bot
-cd rfkbotV2
+git clone https://github.com/VERDIBOTZ1/KURANGTURUV2
+cd KURANGTURUV2
 npm install
 npm update
 ```

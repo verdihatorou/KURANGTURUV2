@@ -2,7 +2,7 @@ let handler = async m => m.reply(`
 「 AKUN GRATIS ini akan update trus」
   🚫warning jika aku di jual beli kan
     Akan di berikan saksi ☕🗿
-     *Di update tggal 20/3/2022*
+     *Di update tggal 4/5/2022*
 GEME ACOUNT FREE FIRE UNCHEK TERBARU
 Email : Jhonatan@yahoo.com
 Password : jhonatan

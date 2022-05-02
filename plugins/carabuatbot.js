@@ -1,8 +1,9 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
 let fetch = require('node-fetch')
 let str = `
-*🌟 Tutorial Buat Bot WA:*
-
+::::::::::::o:::::::::::
+*🌟Tutorial Buat Bot WA:*
+::::::::::::o:::::::::::
 ▸ Ketik di *[TERMUX]*
 1) $ apt update
 2) $ apt upgrade
@@ -10,7 +11,7 @@ let str = `
 4) $ pkg install imagemagick
 5) $ pkg install nodejs
 
-▸ *Untuk Sc nya cari sendiri, atau beli sc ku*
+▸ *Untuk Sc nya cari sendiri, atau pakek sc kurangturuv2*
 6) $ termux-setup-storage
 7) $ cd storage/downloads/(nama file yg kmu rename)
 

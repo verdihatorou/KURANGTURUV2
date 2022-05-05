@@ -4,41 +4,41 @@ let handler = async(m, { conn }) => {
     let kontol = `Kebijakan Privasi, Syarat Ketentuan dan Peraturan Sirad BOT
 
 Kebijakan Privasi
-1. AlyaaXzy tidak akan merekam data riwayat chat user.
-2. AlyaaXzy tidak akan menyebarkan nomor users.
-3. AlyaaXzy tidak akan menyimpan media yang dikirimkan oleh users.
-4. AlyaaXzy tidak akan menyalah gunakan data data users.
-5. Owner AlyaaXzy berhak melihat data riwayat chat users.
-6. Owner AlyaaXzy berhak melihat status users.
-7. Owner AlyaaXzy dapat melihat riwayat chat, dan media yang dikirimkan users.
+1. tidak akan merekam data riwayat chat user.
+2. VERDI tidak akan menyebarkan nomor users.
+3. VERDI tidak akan menyimpan media yang dikirimkan oleh users.
+4. VERDI tidak akan menyalah gunakan data data users.
+5. Owner VERDI GAMTENG berhak melihat data riwayat chat users.
+6. VERDI/MODERATOR berhak melihat status users.
+7. Owner VERDI SEMVAK dapat melihat riwayat chat, dan media yang dikirimkan users.
 
-Peraturan Sirad Bot
+Peraturan GELUD Bot
 1. Users dilarang menelpon maupun memvideo call nomor bot.
 2. Users dilarang mengirimkan berbagai bug, virtex, dll ke nomor bot.
 3. Users diharap tidak melakukan spam dalam penggunaan bot.
 4. Users dilarang menambahkan nomor bot secara illegal, untuk menambahkan silahkan hubungi owner.
 5. Users diharap untuk tidak menyalah gunakan fitur fitur bot.
 
-Syarat Ketentuan Sirad Bot
+Syarat Ketentuan birahi Bot 😱
 1. Bot akan keluar dari group apabila sudah waktunya keluar.
-2. AlyaaXzy dapat mem-ban users secara sepihak terlepas dari users salah atau tidak.
-3. AlyaaXzy *tidak akan bertanggungjawab atas apapun yang users lakukan terhadap fitur bot.*
-4. AlyaaXzy akan memberlakukan hukuman: block atau ban terhadap users yang melanggar peraturan.
-5. AlyaaXzy bertanggung jawab atas kesalahan fatal dalam programing maupun owner.
+2. VERDI  dapat mem-ban users secara sepihak terlepas dari users salah atau tidak JIKA ADA SI.
+3. VERDI *tidak akan bertanggungjawab atas apapun yang users lakukan terhadap fitur bot.*
+4. VERDI  akan memberlakukan hukuman: block atau ban terhadap users yang melanggar peraturan.
+5. DILARANG GEWE TETANGGA.
 
-SC : Tq
--Raditya
+SC : Tenqyu
+-VERDI Ez
 
-Peraturan: 1 Oktober 2021
+Peraturan: 6 mei 2022
 `.trim()
   const button = {
         buttonText: 'Klik Di sini',
         description: kontol,
-        sections:  [{title: "Silahkan di pilih gausah pilih yang gaada", rows: [
+        sections:  [{title: "Silahkan di pilih gausah pilih yang gaada yah gaab", rows: [
         {title: 'Menu Utama', description: "Kembali ke Menu Utama", rowId:".?"},
         {title: 'Sewa Bot', description: "Sewa bot dengan memasukkan bot ke grup kamu", rowId:".sewa"},
         {title: 'Cara Invit?', description: "Cara Memasukkan Bot Di GC", rowId:".tutorbot"},
-        {title: 'Nomor Owner', description: "CHAT *P* TIDAK DI BALAS", rowId:".owner"},
+        {title: 'Nomor Owner', description: "CHAT *P* TIDAK DI BALAS KCUALI CWEK:V", rowId:".owner"},
        ] }],
         listType: 1
        }

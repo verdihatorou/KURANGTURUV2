@@ -14,7 +14,7 @@
 
 
 # verdi
-Simple Rpg WhatsApp Bot verdi
+Simple RPG  WhatsApp Bot verdi
 
 <a href="https://github.com/Dawnfrosty/Mike-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Dawnfrosty/Mike-bot?label=Forks&color=blue&style=flat-square"></a>
 <a href="https://github.com/Dawnfrosty/Mike-bot/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Dawnfrosty/Mike-bot?label=Watchers&color=green&style=flat-square"></a>
@@ -25,10 +25,8 @@ Simple Rpg WhatsApp Bot verdi
 <a href="https://github.com/Dawnfrosty/Mike-bot/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/Dawnfrosty/Mike-bot?label=PullRequest&color=success&style=flat-square"></a>
 <a href="https://github.com/Dawnfrosty/Mike-bot/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/Dawnfrosty/Mike-bot?label=PullRequest&color=red&style=flat-square"></a>
 
-## Join Group Diskusi
-[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?s=for-the-badge&logo=whatsapp&logoColor=white)]() 
-**NO BOT**
-
+## Join Group BOT**
+GADA BANG
 ## Deploy to heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dawnfrosty/Mike-bot)

@@ -76,3 +76,11 @@ node .
 ```
 
 ---------
+| [![Saya](https://github.com/itsmedell.png?size=100)](https://github.com/itsmedell) | [![Hm](https://github.com/VERDIBOTZ1.png?size=100)](https://github.com/VERDIBOTZ1) | [![hm](https://github.com/siegrin.png?size=100)](https://github.com/siegrin) | [![lm](https://github.com/lendradxx.png?size=100)](https://github.com/lendradxx) | [![Sya](https://github.com/Jem-Bot.png?size=100)](https://github.com/Jem-Bot) |
+|------|------|------|------|------|
+| Dellas COTRYBUTOR | VERDI REGEDIT | Siegrin MASTAH | Lendra BEBAN| Jem_Bot CUMA IKUT |
+
+---------
+
+
+

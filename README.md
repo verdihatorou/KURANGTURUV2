@@ -1,4 +1,6 @@
 <h1 align="center">Hi! 👋 I'm verdibotz</h1>
+<h1 align="center">Hi! 👋 I'm verdibotz</h1>
+
 
 <p align="center">
   <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=I'im+verdibotz+?+From+Indonesia.;I'am+Not+Programmer." alt="verdibotz">
